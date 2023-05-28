@@ -1,7 +1,7 @@
 # React-Random_color
 
-#info
+# Info
 This project is build using vite
 
-#Live Preview
+# Live Preview
 https://doc-react-random-color.netlify.app/
