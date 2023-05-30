@@ -4,4 +4,4 @@
 This project is build using vite
 
 # Live Preview
-https://doc-react-random-color.netlify.app/
+https://doc-random-color.netlify.app/
